@@ -139,8 +139,8 @@ void loop() {
     checkKnock = true;
   }   
   
-  if(millis() - waitingTime > knockDelay) {
-    if (checkKnock == true)
+  if(checkKnock == true) {
+    if (millis() - waitingTime > knockDelay)
         playPirates();
   }
 }
