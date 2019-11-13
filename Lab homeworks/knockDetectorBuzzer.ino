@@ -111,7 +111,7 @@ const int treshold = 1;
 bool checkKnock = false;
 
 int knockDelay = 5000;
-unsigned int waitingTime = 0;
+unsigned long waitingTime = 0;
 
 int piratesDuration[] = {
   8,8,8,4,4,8,8,4,4,8,8,4,4,8,8,8,
