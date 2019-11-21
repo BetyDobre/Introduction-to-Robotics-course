@@ -119,7 +119,7 @@ void yMove() {
         yJoyMoved = true;
     }
     
-    if(yValue >maxTreshold && yJoyMoved == false) {
+    if(yValue > maxTreshold && yJoyMoved == false) {
       if(yDigit > 0) {
             yDigit--;
       }
