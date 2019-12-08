@@ -3,7 +3,7 @@
   
   Initially you have three lives and every time you match the bars the score will increase by one. When you miss, you lose a life. The fixed bar is positioned randomly. When you run out of lives, you lose.
   As you progress, the level and the speed will increase and it will get pretty hard to play. At the end of the game, you'll be able to see if you managed to get a highscore. In case of that, your name and highscore will be saved for all to see them. 
-  In the game menu, which you scroll through with the joystick, you are able to enter your name, to see the last saved highscore, to see some info about the game(such as the name of the creator and his Github link, the game name etc.) and of course, you press Play to start the game. After finishing the game, you can see your score and press Play again to restart the game.
+  In the game menu, which you scroll through with the joystick, you are able to enter your name, to see the last saved highscore, to see some info about the game(such as the name of the creator and his Github link, the game name etc.) and of course, you press "Play" to start the game. After finishing the game, you can see your score and press "Play again" to restart the game.
   
   This game can be found in arcades and here is a example of it: https://www.youtube.com/watch?v=43UP6-Bc-FA
 
