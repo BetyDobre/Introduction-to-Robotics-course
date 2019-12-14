@@ -1,5 +1,5 @@
 ## Tower of Power
-#The Game
+# The Game
   The idea of this game is that you have a fixed bar and a moving bar and you have to connect each other. How do you do that? By pushing the button exactly in the moment when they are at the same level. Imagine that you have two cables and you have to connect them to produce electricity. Seems easy, right?
   
   Initially you have three lives and every time you match the bars the score will increase by one. When you miss, you lose a life. The fixed bar is positioned randomly. When you run out of lives, you lose.
