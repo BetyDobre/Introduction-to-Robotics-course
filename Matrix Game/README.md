@@ -1,6 +1,7 @@
 # Tower of Power
 ### How to play
   The idea of this game is that you have a fixed bar and a moving bar and you have to connect each other. How do you do that? By pushing the button exactly in the moment when they are at the same level. Imagine that you have two cables and you have to connect them to produce electricity. Seems easy, right?
+  
   Initially you have three lives and every time you match the bars the score will increase by one. When you miss, you lose a life. The fixed bar is positioned randomly. When you run out of lives, you lose.
   As you progress, the level and the speed will increase and it will get pretty hard to play. Also, at some point the fixed bar will become a time indicator. What should this mean? It will start to blink faster and faster. The faster it blinks, the less time you have to press the button. If you don't manage it on time, you lose a life.
   At the end of the game, you'll be able to see if you made it to a highscore. In case of that, your name and highscore will be saved for all to see them. 
