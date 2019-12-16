@@ -19,7 +19,7 @@
 - Pushbutton
 - Active buzzer
 - Wires
-
+ 
 ![Image of Hardware](/Robotics/hardware.png)
 
 ### Technical requierements
