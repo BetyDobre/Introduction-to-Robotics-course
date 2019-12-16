@@ -21,6 +21,7 @@
 - Wires
 
 ![Image of Hardware](/Robotics/hardware.jpeg)
+Format: ![Alt Text](url)
 
 ### Technical requierements
 The game is displayed on a 8x8 LED matrix using MAX7219 driver. For the control of the LCD it is used a joystick and for the game it is used a pushbutton. Some melodies are played when you start the game and when you lose/win using a buzzer. While playing, relevant info is displayed on the LCD.
