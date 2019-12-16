@@ -4,7 +4,7 @@
   
   Initially you have three lives and every time you match the bars the score will increase by one. When you miss, you lose a life. The fixed bar is positioned randomly. When you run out of lives, you lose.
   
-  As you progress, the level and the speed will increase and it will get pretty hard to play. Also, at some point the fixed bar will become a time indicator. What should this mean? It will start to blink faster and faster. The faster it blinks, the less time you have to press the button. If you don't manage it on time, you lose a life.
+  As you progress, the level and the speed will increase and it will get pretty hard to play. Also, at some point the fixed bar will become a time indicator. What should this mean? It will start to blink faster and faster. The faster it blinks, the less time you have to press the button. If you don't manage it on time, you lose a life. Furthermore, you can pause the game whenever you want by pressing the button on the joystick. When you press it again, the game will resume.
   
   At the end of the game, you'll be able to see if you made it to a highscore. In case of that, your name and highscore will be saved for all to see them. 
   
