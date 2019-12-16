@@ -20,7 +20,7 @@
 - Active buzzer
 - Wires
  
-### Assembled arware
+### Assembled hardware
 ![Image of Hardware](hardware.png)
 
 ### Technical requierements
