@@ -41,6 +41,7 @@ int currentItem = 0;             // index for the main menu items
 int gameOverItem = 0;            // index for the game over menu(play again and menu) items
 int speedOfBar = 900;            // stores speed of the moving bar
 int interval = 1000;             // time required to have passed to check if the speed can be increased since the last increase
+int speedStart = 100                  // used to calculate the speed of the moving bar using the starting level
 int fixedRow = 0;                // row of the fixed bar index
 int timePressure = 300;
 int startBlinkSpeed = 500;
@@ -51,7 +52,7 @@ int previousRandNumber = 0;      // stored to turn off previous fixed bar
 
 unsigned long progressTime = 0;           // time since the game started
 unsigned long delayDescrease = 0;   
-unsigned long blinkMillis = 0;            // 
+unsigned long blinkMillis = 0;            // used to measure the time since the last blink
 
 char incomingByte = 0;
 String playerName = "";         // stores the player name from the Serial monitor
@@ -430,7 +431,7 @@ void moveStartingLevel() {
   if(xValue >= minTreshold && xValue <= maxTreshold)
       xJoyMoved = false;
       
-  speedOfBar = 1000 -  startingLevel * 100; 
+  speedOfBar = interval -  startingLevel * speedStart; 
   
   delay(1);
 }
