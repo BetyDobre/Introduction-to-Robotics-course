@@ -14,4 +14,4 @@
 - Lots of wires
 
 ### Assembled hardware
-![Image of Hardware](venduino.png)
+![Image of Hardware](venduino.jpg)
