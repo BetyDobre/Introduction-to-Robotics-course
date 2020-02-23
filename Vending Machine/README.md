@@ -12,3 +12,6 @@
 - Servo motor
 - Ultrasonic Sensor
 - Lots of wires
+
+### Assembled hardware
+![Image of Hardware](venduino.png)
