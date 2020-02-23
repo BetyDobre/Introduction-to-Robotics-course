@@ -2,7 +2,7 @@
 
 ## Tutorial Followed: https://www.youtube.com/watch?v=-gdm71P1k9c&t=268s
 
-##Hardware required: 
+## Hardware required: 
 - Arduino Mega
 - Motor Shield l293d
 - 4 DC motors
