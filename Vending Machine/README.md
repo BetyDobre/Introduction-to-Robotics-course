@@ -2,7 +2,7 @@
 
 ## How to use instructions
 
-The menu is very intuitive. First, you have to introduce a coin then you can scroll with the joystick through the menu to choose a product. When you have decided what you want, you press the joystick button. If you have enough coins inserted, the product will fall on the ramp that will push it out and if not, an appropiate message will apear on the screen and you have to insert more coins. Like an authentic vending machine, the things can get stuck. (sorry)
+The menu is very intuitive. First, you have to introduce a coin then you can scroll with the joystick through the menu to choose a product. When you have decided what you want, you press the joystick button. If you have enough coins inserted, the product will fall on the ramp that will push it out and if not, an appropiate message will apear on the screen and you have to insert more coins. Like an authentic vending machine, the things can get stuck(sorry).
 
 ## Tutorial Followed: https://www.youtube.com/watch?v=-gdm71P1k9c&t=268s
 
