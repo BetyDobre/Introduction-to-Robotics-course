@@ -29,5 +29,5 @@ The idea is inspired from here. Instead of servo motors I used DC motors, the LC
 
 ## How it works
 
-An ultrasonic sensor is used to detect the coins inserted. The X-asis of the joystick is used to scroll through the LCD display menu and the switch button from it is used to select the product. The DC motor is spinning the spring to make the product fall. Then, a servo motor open a "door" once a product falls and when it closses the product is pushed outside(in other words, it acts like a ramp). 
+An ultrasonic sensor is used to detect the coins inserted. The X-asis of the joystick is used to scroll through the LCD display menu and the switch button from it is used to select the product. The DC motor is spinning the spring to make the product fall. Then, a servo motor opens a "door" once a product falls and when it closses the product is pushed outside(in other words, it acts like a ramp). 
 
