@@ -25,6 +25,7 @@ The idea is inspired from here. Instead of servo motors I used DC motors, the LC
 
 ### Assembled hardware
 ![Image of Hardware](venduino.jpg)
+![Image of Hardware2](hardware.jpg)
 
 ## How it works
 
